@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abdulrahman Ali — Responsible AI Builder</title>
+  <desc id="desc">A navy and teal abstract header with three connected project nodes and a focus on responsible AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081727"/>
+      <stop offset="0.58" stop-color="#12344a"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#5eead4" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#020617" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1110" cy="34" r="260" fill="url(#glow)"/>
+  <path d="M858 93 L1042 180 L870 273" fill="none" stroke="#99f6e4" stroke-opacity=".45" stroke-width="3"/>
+  <path d="M1042 180 L1188 92 M1042 180 L1190 275" fill="none" stroke="#99f6e4" stroke-opacity=".32" stroke-width="3"/>
+  <g filter="url(#shadow)">
+    <circle cx="858" cy="93" r="34" fill="#e2e8f0"/>
+    <circle cx="1042" cy="180" r="48" fill="#5eead4"/>
+    <circle cx="870" cy="273" r="34" fill="#e2e8f0"/>
+    <circle cx="1188" cy="92" r="25" fill="#ccfbf1"/>
+    <circle cx="1190" cy="275" r="25" fill="#ccfbf1"/>
+  </g>
+  <g fill="#0f172a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="700" text-anchor="middle">
+    <text x="858" y="99" font-size="18">R</text>
+    <text x="1042" y="188" font-size="24">AI</text>
+    <text x="870" y="279" font-size="18">M</text>
+    <text x="1188" y="98" font-size="16">N</text>
+    <text x="1190" y="281" font-size="16">✓</text>
+  </g>
+  <text x="72" y="134" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="52" font-weight="760">Abdulrahman Ali</text>
+  <text x="74" y="188" fill="#99f6e4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="600" letter-spacing="1.2">RESPONSIBLE AI BUILDER</text>
+  <text x="74" y="241" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20">Privacy · Evaluation · User control · Clear handoff</text>
+  <rect x="72" y="277" width="176" height="7" rx="3.5" fill="#5eead4"/>
+</svg>
