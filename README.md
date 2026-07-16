@@ -8,6 +8,8 @@
 
 I build responsible AI tools from idea to tested application, with a focus on privacy, user control, evaluation, and clear handoff.
 
+Explore the [public project portfolio](https://github.com/Mewzara/ai-project-portfolio) for the connected case studies and reviewer guidance.
+
 ## Featured projects
 
 ### [RadDraft CXR Research Showcase](https://github.com/Mewzara/raddraft-cxr-research-showcase)
